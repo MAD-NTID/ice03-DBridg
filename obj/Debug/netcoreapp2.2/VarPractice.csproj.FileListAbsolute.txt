@@ -1,0 +1,11 @@
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\bin\Debug\netcoreapp2.2\VarPractice.deps.json
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\bin\Debug\netcoreapp2.2\VarPractice.runtimeconfig.json
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\bin\Debug\netcoreapp2.2\VarPractice.runtimeconfig.dev.json
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\bin\Debug\netcoreapp2.2\VarPractice.dll
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\bin\Debug\netcoreapp2.2\VarPractice.pdb
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\obj\Debug\netcoreapp2.2\VarPractice.csprojAssemblyReference.cache
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\obj\Debug\netcoreapp2.2\VarPractice.csproj.CoreCompileInputs.cache
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\obj\Debug\netcoreapp2.2\VarPractice.AssemblyInfoInputs.cache
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\obj\Debug\netcoreapp2.2\VarPractice.AssemblyInfo.cs
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\obj\Debug\netcoreapp2.2\VarPractice.dll
+C:\Users\Impis\Desktop\School\NMAD 180\ICE\ICE03\VarPractice\obj\Debug\netcoreapp2.2\VarPractice.pdb
